@@ -642,7 +642,7 @@ INSERT INTO `proveedor` (`id_proveedor`, `proveedor`, `contacto`, `direccion`, `
 (40, 'DragonWave Inc', 'Sid Lapre', '3326 Somerset Avenue, Gastonia, North Carolina, Un', '(704) 313-0234', 'sid.lapre@gmail.com'),
 (41, 'Vonage Holdings Corp.', 'Merrill Josephoff', '12858 Ballesteros Drive, Chicago, Illinois, United', '(708) 115-3150', 'merrill.josephoff@hotmail.fr'),
 (42, 'Century Bancorp, Inc.', 'Karlen Cheeney', '10372 Del Mar Drive, Milwaukee, Wisconsin, United ', '(414) 939-4010', 'karlen.cheeney@hotmail.com'),
-(43, 'Denny\'s Corporation', 'Correna MacCaig', '8537 Ultra Court, Canton, Ohio, United States, 447', '(330) 431-4274', 'correna.maccaig@gmail.com'),
+(43, 'Denny\s Corporation', 'Correna MacCaig', '8537 Ultra Court, Canton, Ohio, United States, 447', '(330) 431-4274', 'correna.maccaig@gmail.com'),
 (44, 'KKR Income Opportunities Fund', 'Lebbie Hearnshaw', '5530 Cervantes Place, Mobile, Alabama, United Stat', '(251) 613-7298', 'lebbie.hearnshaw@yahoo.com'),
 (45, 'Argo Group International Holdings, Ltd.', 'Erhard McKinney', '14815 Allendale Place, Wichita, Kansas, United Sta', '(316) 351-1383', 'erhard.mckinney@aol.com'),
 (46, 'Blackrock New York Municipal Income Quality Trust', 'Beulah Inglese', '8660 Mickylee Run, Los Angeles, California, United', '(213) 095-3958', 'beulah.inglese@yahoo.com'),
@@ -653,7 +653,7 @@ INSERT INTO `proveedor` (`id_proveedor`, `proveedor`, `contacto`, `direccion`, `
 (51, 'ORBCOMM Inc.', 'Isacco Barkes', '1253 Berning Terrace, Columbus, Ohio, United State', '(614) 988-6693', 'isacco.barkes@hotmail.com'),
 (52, 'Scana Corporation', 'Norri Bucktrout', '9982 Brandenburg Court, Denver, Colorado, United S', '(720) 258-3741', 'norri.bucktrout@yahoo.es'),
 (53, 'Invitae Corporation', 'Lenee Scarlon', '5474 Summerlin Street, Boise, Idaho, United States', '(208) 585-3040', 'lenee.scarlon@hotmail.com'),
-(54, 'People\'s United Financial, Inc.', 'Valerye Cockshut', '3060 Enconto Street, El Paso, Texas, United States', '(915) 559-4100', 'valerye.cockshut@gmail.com'),
+(54, 'People\s United Financial, Inc.', 'Valerye Cockshut', '3060 Enconto Street, El Paso, Texas, United States', '(915) 559-4100', 'valerye.cockshut@gmail.com'),
 (55, 'Asia Pacific Wire & Cable Corporation Limited', 'Antonina Marzele', '6423 Lavaca Lane, Kissimmee, Florida, United State', '(407) 761-6012', 'antonina.marzele@hotmail.com'),
 (56, 'Castlight Health, inc.', 'Cheryl Toupe', '10458 Shivers Loop, Houston, Texas, United States,', '(713) 432-6766', 'cheryl.toupe@yahoo.com'),
 (57, 'General Motors Company', 'Herschel Chirm', '2578 Albany Avenue, Columbus, Georgia, United Stat', '(706) 301-6915', 'herschel.chirm@hotmail.com'),
@@ -702,8 +702,7 @@ INSERT INTO `proveedor` (`id_proveedor`, `proveedor`, `contacto`, `direccion`, `
 (100, 'Cellectar Biosciences, Inc.', 'Gabriella Lettsom', '5799 Juarez Place, Falls Church, Virginia, United ', '(571) 607-0765', 'gabriella.lettsom@gmail.com');
 
 --
--- Volcado de datos para la tabla `tipo`
---
+-- Volcado de datos para la tabla `tipo`--
 
 INSERT INTO `tipo` (`id_tipo`, `tipo_venta`) VALUES
 (1, 'offline'),
